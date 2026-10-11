@@ -9,6 +9,9 @@ __pycache__/
 # Ignored folders here
 /iex_trade_chunks
 
+# ignore notebook
+check.ipynb
+
 # Distribution / packaging
 .Python
 build/
